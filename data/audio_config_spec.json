@@ -1,0 +1,9 @@
+{
+  "version": "1.0.0",
+  "sample_rate": 16000,
+  "channels": 1,
+  "chunk_size_ms": 30,
+  "vad_threshold": 0.65,
+  "last_iteration": "v4",
+  "updated_at": "2026-03-11 19:08:16"
+}

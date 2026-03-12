@@ -1,0 +1,14 @@
+{
+  "intents": [
+    {
+      "phrase": "activate atlas",
+      "action": "wake"
+    },
+    {
+      "phrase": "status check",
+      "action": "system_status"
+    }
+  ],
+  "last_test_run": "2026-03-12 19:13:10",
+  "suite_build": 8
+}

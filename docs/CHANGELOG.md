@@ -10,3 +10,4 @@ All notable changes and voice pipeline iterations.
 - [2026-03-11 22:48:38] perf(pipeline): adjust microphone sensitivity calibration thresholds
 - [2026-03-12 16:05:23] perf(memory): optimize whisper audio buffer chunking for low latency
 - [2026-03-12 21:51:41] chore(audio): add streaming audio playback queue for low-latency voice replies
+- [2026-03-18 16:23:20] fix(stt): refine voice activity detection energy gating

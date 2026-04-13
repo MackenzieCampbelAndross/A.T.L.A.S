@@ -13,3 +13,4 @@ All notable changes and voice pipeline iterations.
 - [2026-03-18 16:23:20] fix(stt): refine voice activity detection energy gating
 - **2026-04-10 15:06:09**: `docs(pipeline): adjust microphone sensitivity calibration thresholds`
   *Updated specifications and documentation details.*
+- [2026-04-13 15:49:27] chore(wake-word): update audio pipeline state machine diagrams

@@ -15,3 +15,4 @@ All notable changes and voice pipeline iterations.
   *Updated specifications and documentation details.*
 - [2026-04-13 15:49:27] chore(wake-word): update audio pipeline state machine diagrams
 - [2026-04-13 19:10:41] fix(tts): implement dynamic silence threshold detection for voice commands
+- [2026-04-14 13:45:34] perf(audio): refine voice activity detection energy gating

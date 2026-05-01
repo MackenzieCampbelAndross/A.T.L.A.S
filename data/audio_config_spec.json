@@ -4,6 +4,6 @@
   "channels": 1,
   "chunk_size_ms": 30,
   "vad_threshold": 0.65,
-  "last_iteration": "v26",
-  "updated_at": "2026-04-30 09:54:30"
+  "last_iteration": "v27",
+  "updated_at": "2026-05-01 18:09:33"
 }

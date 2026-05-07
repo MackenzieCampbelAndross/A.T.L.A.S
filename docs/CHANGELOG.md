@@ -26,3 +26,4 @@ All notable changes and voice pipeline iterations.
 - **2026-05-07 16:16:02**: `docs(wake-word): handle sounddevice input stream underflow during high CPU load`
   *Updated specifications and documentation details.*
 - [2026-05-07 16:52:19] perf(tts): streamline wake-word intent recognition classifier
+- [2026-05-07 18:19:17] perf(pipeline): decouple TTS engine interface from speech synthesis loop

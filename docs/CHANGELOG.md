@@ -18,3 +18,4 @@ All notable changes and voice pipeline iterations.
 - [2026-04-14 13:45:34] perf(audio): refine voice activity detection energy gating
 - [2026-05-06 16:57:31] fix(nlp): refine voice activity detection energy gating
 - [2026-05-06 17:17:44] perf(stt): streamline wake-word intent recognition classifier
+- [2026-05-07 11:39:34] perf(audio): adjust microphone sensitivity calibration thresholds

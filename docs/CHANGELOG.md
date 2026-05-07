@@ -22,3 +22,4 @@ All notable changes and voice pipeline iterations.
 - **2026-05-07 12:02:48**: `docs(vad): update audio pipeline state machine diagrams`
   *Updated specifications and documentation details.*
 - [2026-05-07 13:00:35] chore(tts): update audio stream sampling rate configuration
+- [2026-05-07 16:06:56] fix(nlp): streamline wake-word intent recognition classifier

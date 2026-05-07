@@ -9,3 +9,5 @@ Specifications for chunking, whisper buffer management, and TTS fallback engines
   *Updated specifications and documentation details.*
 - **2026-05-07 17:35:56**: `docs(vad): document speech synthesis fallback providers`
   *Updated specifications and documentation details.*
+- **2026-05-07 22:18:56**: `docs(memory): add streaming audio playback queue for low-latency voice replies`
+  *Updated specifications and documentation details.*

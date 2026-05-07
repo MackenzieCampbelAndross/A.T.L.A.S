@@ -23,3 +23,5 @@ All notable changes and voice pipeline iterations.
   *Updated specifications and documentation details.*
 - [2026-05-07 13:00:35] chore(tts): update audio stream sampling rate configuration
 - [2026-05-07 16:06:56] fix(nlp): streamline wake-word intent recognition classifier
+- **2026-05-07 16:16:02**: `docs(wake-word): handle sounddevice input stream underflow during high CPU load`
+  *Updated specifications and documentation details.*

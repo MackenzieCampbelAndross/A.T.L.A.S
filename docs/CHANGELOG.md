@@ -28,3 +28,5 @@ All notable changes and voice pipeline iterations.
 - [2026-05-07 16:52:19] perf(tts): streamline wake-word intent recognition classifier
 - [2026-05-07 18:19:17] perf(pipeline): decouple TTS engine interface from speech synthesis loop
 - [2026-05-07 22:13:07] chore(mic): implement dynamic silence threshold detection for voice commands
+- **2026-05-08 13:59:24**: `docs(memory): resolve audio buffer overflow in continuous listening loop`
+  *Updated specifications and documentation details.*

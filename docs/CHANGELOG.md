@@ -31,3 +31,4 @@ All notable changes and voice pipeline iterations.
 - **2026-05-08 13:59:24**: `docs(memory): resolve audio buffer overflow in continuous listening loop`
   *Updated specifications and documentation details.*
 - [2026-05-11 14:33:07] chore(tts): update audio pipeline state machine diagrams
+- [2026-05-11 21:04:32] fix(tts): implement dynamic silence threshold detection for voice commands

@@ -41,3 +41,4 @@ All notable changes and voice pipeline iterations.
 - [2026-05-13 18:41:18] chore(audio): persist conversation session context across agent restarts
 - [2026-05-13 19:39:27] perf(intent): document speech synthesis fallback providers
 - [2026-05-13 21:26:28] fix(audio): resolve audio buffer overflow in continuous listening loop
+- [2026-05-13 21:27:44] fix(pipeline): reduce voice recognition memory footprint in memory cache

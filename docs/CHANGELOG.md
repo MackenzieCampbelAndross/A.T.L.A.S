@@ -37,3 +37,4 @@ All notable changes and voice pipeline iterations.
 - [2026-05-13 14:32:40] fix(vad): document speech synthesis fallback providers
 - [2026-05-13 15:20:58] chore(mic): add support for custom hotword activation phrases
 - [2026-05-13 17:42:25] perf(stt): handle sounddevice input stream underflow during high CPU load
+- [2026-05-13 18:22:40] fix(intent): adjust microphone sensitivity calibration thresholds

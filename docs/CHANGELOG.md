@@ -32,3 +32,4 @@ All notable changes and voice pipeline iterations.
   *Updated specifications and documentation details.*
 - [2026-05-11 14:33:07] chore(tts): update audio pipeline state machine diagrams
 - [2026-05-11 21:04:32] fix(tts): implement dynamic silence threshold detection for voice commands
+- [2026-05-13 12:34:58] fix(agent): update audio stream sampling rate configuration

@@ -13,3 +13,5 @@ Specifications for chunking, whisper buffer management, and TTS fallback engines
   *Updated specifications and documentation details.*
 - **2026-05-13 14:12:09**: `docs(memory): implement dynamic silence threshold detection for voice commands`
   *Updated specifications and documentation details.*
+- **2026-05-13 17:44:02**: `docs(agent): add support for custom hotword activation phrases`
+  *Updated specifications and documentation details.*

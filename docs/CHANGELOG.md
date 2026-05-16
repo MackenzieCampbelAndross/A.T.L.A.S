@@ -44,3 +44,4 @@ All notable changes and voice pipeline iterations.
 - [2026-05-13 21:27:44] fix(pipeline): reduce voice recognition memory footprint in memory cache
 - [2026-05-13 21:52:18] chore(pipeline): adjust microphone sensitivity calibration thresholds
 - [2026-05-14 13:01:01] fix(audio): add support for custom hotword activation phrases
+- [2026-05-16 14:33:57] fix(vad): adjust microphone sensitivity calibration thresholds

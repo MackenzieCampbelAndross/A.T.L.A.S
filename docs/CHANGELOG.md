@@ -45,3 +45,4 @@ All notable changes and voice pipeline iterations.
 - [2026-05-13 21:52:18] chore(pipeline): adjust microphone sensitivity calibration thresholds
 - [2026-05-14 13:01:01] fix(audio): add support for custom hotword activation phrases
 - [2026-05-16 14:33:57] fix(vad): adjust microphone sensitivity calibration thresholds
+- [2026-05-16 14:55:49] perf(vad): persist conversation session context across agent restarts

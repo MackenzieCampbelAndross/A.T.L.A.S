@@ -46,3 +46,5 @@ All notable changes and voice pipeline iterations.
 - [2026-05-14 13:01:01] fix(audio): add support for custom hotword activation phrases
 - [2026-05-16 14:33:57] fix(vad): adjust microphone sensitivity calibration thresholds
 - [2026-05-16 14:55:49] perf(vad): persist conversation session context across agent restarts
+- **2026-05-18 10:13:23**: `docs(stt): add contextual memory entity extraction to conversational agent`
+  *Updated specifications and documentation details.*

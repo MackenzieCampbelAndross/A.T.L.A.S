@@ -15,3 +15,5 @@ Specifications for chunking, whisper buffer management, and TTS fallback engines
   *Updated specifications and documentation details.*
 - **2026-05-13 17:44:02**: `docs(agent): add support for custom hotword activation phrases`
   *Updated specifications and documentation details.*
+- **2026-05-19 20:14:03**: `docs(stt): resolve audio buffer overflow in continuous listening loop`
+  *Updated specifications and documentation details.*

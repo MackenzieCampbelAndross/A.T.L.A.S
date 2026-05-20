@@ -49,3 +49,4 @@ All notable changes and voice pipeline iterations.
 - **2026-05-18 10:13:23**: `docs(stt): add contextual memory entity extraction to conversational agent`
   *Updated specifications and documentation details.*
 - [2026-05-20 20:20:57] perf(wake-word): handle sounddevice input stream underflow during high CPU load
+- [2026-05-20 20:46:20] perf(pipeline): decouple TTS engine interface from speech synthesis loop

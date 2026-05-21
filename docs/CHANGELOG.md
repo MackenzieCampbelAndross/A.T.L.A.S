@@ -57,3 +57,4 @@ All notable changes and voice pipeline iterations.
 - [2026-05-21 14:05:04] chore(agent): optimize speech-to-text token decoding latency
 - **2026-05-21 14:48:28**: `docs(tts): update audio stream sampling rate configuration`
   *Updated specifications and documentation details.*
+- [2026-05-21 15:37:53] chore(memory): add streaming audio playback queue for low-latency voice replies

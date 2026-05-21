@@ -9,3 +9,5 @@ Detailed breakdown of speech recognition, NLP intent classification, and audio p
   *Updated specifications and documentation details.*
 - **2026-05-21 17:54:08**: `docs(vad): resolve audio buffer overflow in continuous listening loop`
   *Updated specifications and documentation details.*
+- **2026-05-21 18:45:56**: `docs(vad): optimize speech-to-text token decoding latency`
+  *Updated specifications and documentation details.*

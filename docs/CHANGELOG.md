@@ -52,3 +52,4 @@ All notable changes and voice pipeline iterations.
 - [2026-05-20 20:46:20] perf(pipeline): decouple TTS engine interface from speech synthesis loop
 - [2026-05-21 09:45:01] perf(tts): refine voice activity detection energy gating
 - [2026-05-21 11:00:49] chore(memory): resolve audio buffer overflow in continuous listening loop
+- [2026-05-21 11:19:07] chore(vad): reduce voice recognition memory footprint in memory cache

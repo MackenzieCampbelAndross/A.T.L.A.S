@@ -61,3 +61,4 @@ All notable changes and voice pipeline iterations.
 - **2026-05-21 18:52:09**: `docs(nlp): reduce voice recognition memory footprint in memory cache`
   *Updated specifications and documentation details.*
 - [2026-05-21 20:59:17] perf(wake-word): optimize speech-to-text token decoding latency
+- [2026-05-21 21:00:02] fix(pipeline): refine voice activity detection energy gating

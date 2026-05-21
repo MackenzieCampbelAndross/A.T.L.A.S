@@ -17,3 +17,5 @@ Specifications for chunking, whisper buffer management, and TTS fallback engines
   *Updated specifications and documentation details.*
 - **2026-05-19 20:14:03**: `docs(stt): resolve audio buffer overflow in continuous listening loop`
   *Updated specifications and documentation details.*
+- **2026-05-21 13:28:23**: `docs(vad): implement dynamic silence threshold detection for voice commands`
+  *Updated specifications and documentation details.*

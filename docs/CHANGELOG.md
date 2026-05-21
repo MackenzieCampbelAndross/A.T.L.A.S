@@ -50,3 +50,4 @@ All notable changes and voice pipeline iterations.
   *Updated specifications and documentation details.*
 - [2026-05-20 20:20:57] perf(wake-word): handle sounddevice input stream underflow during high CPU load
 - [2026-05-20 20:46:20] perf(pipeline): decouple TTS engine interface from speech synthesis loop
+- [2026-05-21 09:45:01] perf(tts): refine voice activity detection energy gating

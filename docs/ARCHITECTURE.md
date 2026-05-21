@@ -7,3 +7,5 @@ Detailed breakdown of speech recognition, NLP intent classification, and audio p
   *Updated specifications and documentation details.*
 - **2026-05-21 17:18:15**: `docs(agent): persist conversation session context across agent restarts`
   *Updated specifications and documentation details.*
+- **2026-05-21 17:54:08**: `docs(vad): resolve audio buffer overflow in continuous listening loop`
+  *Updated specifications and documentation details.*

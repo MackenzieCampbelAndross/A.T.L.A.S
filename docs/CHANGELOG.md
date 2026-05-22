@@ -63,3 +63,4 @@ All notable changes and voice pipeline iterations.
 - [2026-05-21 20:59:17] perf(wake-word): optimize speech-to-text token decoding latency
 - [2026-05-21 21:00:02] fix(pipeline): refine voice activity detection energy gating
 - [2026-05-21 21:50:50] fix(tts): implement dynamic silence threshold detection for voice commands
+- [2026-05-22 11:10:32] fix(vad): adjust microphone sensitivity calibration thresholds

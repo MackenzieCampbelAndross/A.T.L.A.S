@@ -65,3 +65,4 @@ All notable changes and voice pipeline iterations.
 - [2026-05-21 21:50:50] fix(tts): implement dynamic silence threshold detection for voice commands
 - [2026-05-22 11:10:32] fix(vad): adjust microphone sensitivity calibration thresholds
 - [2026-05-23 16:15:25] perf(vad): streamline wake-word intent recognition classifier
+- [2026-05-26 12:51:34] chore(intent): add streaming audio playback queue for low-latency voice replies

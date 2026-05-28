@@ -70,3 +70,4 @@ All notable changes and voice pipeline iterations.
 - [2026-05-28 09:33:14] perf(tts): add contextual memory entity extraction to conversational agent
 - [2026-05-28 10:10:09] perf(vad): optimize speech-to-text token decoding latency
 - [2026-05-28 10:19:18] perf(vad): enhance natural language query intent parsing for nested commands
+- [2026-05-28 11:20:30] perf(intent): update audio stream sampling rate configuration

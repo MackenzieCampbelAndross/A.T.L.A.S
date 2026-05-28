@@ -67,3 +67,4 @@ All notable changes and voice pipeline iterations.
 - [2026-05-23 16:15:25] perf(vad): streamline wake-word intent recognition classifier
 - [2026-05-26 12:51:34] chore(intent): add streaming audio playback queue for low-latency voice replies
 - [2026-05-27 16:53:46] fix(vad): add contextual memory entity extraction to conversational agent
+- [2026-05-28 09:33:14] perf(tts): add contextual memory entity extraction to conversational agent

@@ -21,3 +21,5 @@ Specifications for chunking, whisper buffer management, and TTS fallback engines
   *Updated specifications and documentation details.*
 - **2026-05-25 17:24:51**: `docs(mic): persist conversation session context across agent restarts`
   *Updated specifications and documentation details.*
+- **2026-05-28 10:38:38**: `docs(agent): add streaming audio playback queue for low-latency voice replies`
+  *Updated specifications and documentation details.*

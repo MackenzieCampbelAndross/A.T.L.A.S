@@ -11,3 +11,5 @@ Detailed breakdown of speech recognition, NLP intent classification, and audio p
   *Updated specifications and documentation details.*
 - **2026-05-21 18:45:56**: `docs(vad): optimize speech-to-text token decoding latency`
   *Updated specifications and documentation details.*
+- **2026-05-28 12:03:48**: `docs(mic): handle sounddevice input stream underflow during high CPU load`
+  *Updated specifications and documentation details.*

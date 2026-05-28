@@ -74,3 +74,4 @@ All notable changes and voice pipeline iterations.
 - [2026-05-28 11:42:27] fix(memory): streamline wake-word intent recognition classifier
 - [2026-05-28 14:01:18] perf(tts): persist conversation session context across agent restarts
 - [2026-05-28 15:25:04] chore(audio): streamline wake-word intent recognition classifier
+- [2026-05-28 16:16:35] chore(pipeline): document speech synthesis fallback providers

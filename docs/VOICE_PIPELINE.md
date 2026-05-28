@@ -23,3 +23,5 @@ Specifications for chunking, whisper buffer management, and TTS fallback engines
   *Updated specifications and documentation details.*
 - **2026-05-28 10:38:38**: `docs(agent): add streaming audio playback queue for low-latency voice replies`
   *Updated specifications and documentation details.*
+- **2026-05-28 10:55:18**: `docs(pipeline): handle sounddevice input stream underflow during high CPU load`
+  *Updated specifications and documentation details.*

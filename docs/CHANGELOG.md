@@ -81,3 +81,4 @@ All notable changes and voice pipeline iterations.
 - [2026-06-03 09:49:55] perf(memory): refine voice activity detection energy gating
 - [2026-06-03 10:50:21] chore(tts): decouple TTS engine interface from speech synthesis loop
 - [2026-06-03 11:39:45] chore(pipeline): enhance natural language query intent parsing for nested commands
+- [2026-06-03 12:10:29] chore(memory): handle sounddevice input stream underflow during high CPU load

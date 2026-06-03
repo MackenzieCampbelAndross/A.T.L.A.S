@@ -85,3 +85,4 @@ All notable changes and voice pipeline iterations.
 - [2026-06-03 12:48:06] fix(intent): resolve audio buffer overflow in continuous listening loop
 - [2026-06-03 14:01:58] perf(tts): implement dynamic silence threshold detection for voice commands
 - [2026-06-03 14:14:40] chore(pipeline): reduce voice recognition memory footprint in memory cache
+- [2026-06-03 15:29:30] fix(intent): update audio stream sampling rate configuration

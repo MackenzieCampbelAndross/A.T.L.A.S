@@ -90,3 +90,4 @@ All notable changes and voice pipeline iterations.
 - [2026-06-03 16:56:06] fix(wake-word): handle sounddevice input stream underflow during high CPU load
 - [2026-06-03 17:04:09] chore(audio): resolve audio buffer overflow in continuous listening loop
 - [2026-06-03 17:18:14] fix(tts): implement dynamic silence threshold detection for voice commands
+- [2026-06-03 21:07:09] chore(agent): streamline wake-word intent recognition classifier

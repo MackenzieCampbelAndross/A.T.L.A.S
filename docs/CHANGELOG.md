@@ -86,3 +86,4 @@ All notable changes and voice pipeline iterations.
 - [2026-06-03 14:01:58] perf(tts): implement dynamic silence threshold detection for voice commands
 - [2026-06-03 14:14:40] chore(pipeline): reduce voice recognition memory footprint in memory cache
 - [2026-06-03 15:29:30] fix(intent): update audio stream sampling rate configuration
+- [2026-06-03 16:16:58] perf(agent): reduce voice recognition memory footprint in memory cache

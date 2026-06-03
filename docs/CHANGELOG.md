@@ -88,3 +88,4 @@ All notable changes and voice pipeline iterations.
 - [2026-06-03 15:29:30] fix(intent): update audio stream sampling rate configuration
 - [2026-06-03 16:16:58] perf(agent): reduce voice recognition memory footprint in memory cache
 - [2026-06-03 16:56:06] fix(wake-word): handle sounddevice input stream underflow during high CPU load
+- [2026-06-03 17:04:09] chore(audio): resolve audio buffer overflow in continuous listening loop

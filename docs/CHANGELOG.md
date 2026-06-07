@@ -92,3 +92,4 @@ All notable changes and voice pipeline iterations.
 - [2026-06-03 17:18:14] fix(tts): implement dynamic silence threshold detection for voice commands
 - [2026-06-03 21:07:09] chore(agent): streamline wake-word intent recognition classifier
 - [2026-06-04 15:17:13] chore(mic): add support for custom hotword activation phrases
+- [2026-06-07 17:20:47] fix(agent): add support for custom hotword activation phrases

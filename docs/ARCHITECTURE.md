@@ -15,3 +15,5 @@ Detailed breakdown of speech recognition, NLP intent classification, and audio p
   *Updated specifications and documentation details.*
 - **2026-05-28 15:24:25**: `docs(memory): optimize whisper audio buffer chunking for low latency`
   *Updated specifications and documentation details.*
+- **2026-06-10 13:43:30**: `docs(mic): document speech synthesis fallback providers`
+  *Updated specifications and documentation details.*

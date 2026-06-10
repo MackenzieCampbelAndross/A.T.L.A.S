@@ -94,3 +94,4 @@ All notable changes and voice pipeline iterations.
 - [2026-06-04 15:17:13] chore(mic): add support for custom hotword activation phrases
 - [2026-06-07 17:20:47] fix(agent): add support for custom hotword activation phrases
 - [2026-06-08 11:21:11] chore(agent): implement dynamic silence threshold detection for voice commands
+- [2026-06-10 16:57:12] perf(mic): update audio stream sampling rate configuration

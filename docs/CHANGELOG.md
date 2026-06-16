@@ -97,3 +97,4 @@ All notable changes and voice pipeline iterations.
 - [2026-06-10 16:57:12] perf(mic): update audio stream sampling rate configuration
 - [2026-06-11 16:40:01] chore(mic): resolve audio buffer overflow in continuous listening loop
 - [2026-06-16 19:11:47] chore(audio): enhance natural language query intent parsing for nested commands
+- [2026-06-16 20:56:25] perf(stt): streamline wake-word intent recognition classifier

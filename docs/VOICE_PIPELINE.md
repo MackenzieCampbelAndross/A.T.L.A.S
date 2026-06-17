@@ -25,3 +25,5 @@ Specifications for chunking, whisper buffer management, and TTS fallback engines
   *Updated specifications and documentation details.*
 - **2026-05-28 10:55:18**: `docs(pipeline): handle sounddevice input stream underflow during high CPU load`
   *Updated specifications and documentation details.*
+- **2026-06-17 15:21:50**: `docs(wake-word): optimize speech-to-text token decoding latency`
+  *Updated specifications and documentation details.*

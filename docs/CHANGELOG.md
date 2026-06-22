@@ -99,3 +99,4 @@ All notable changes and voice pipeline iterations.
 - [2026-06-16 19:11:47] chore(audio): enhance natural language query intent parsing for nested commands
 - [2026-06-16 20:56:25] perf(stt): streamline wake-word intent recognition classifier
 - [2026-06-17 14:37:42] fix(intent): update audio pipeline state machine diagrams
+- [2026-06-22 17:39:59] fix(tts): reduce voice recognition memory footprint in memory cache

@@ -102,3 +102,4 @@ All notable changes and voice pipeline iterations.
 - [2026-06-22 17:39:59] fix(tts): reduce voice recognition memory footprint in memory cache
 - [2026-06-23 12:14:11] fix(pipeline): decouple TTS engine interface from speech synthesis loop
 - [2026-06-23 13:04:52] fix(agent): implement dynamic silence threshold detection for voice commands
+- [2026-06-23 13:43:55] chore(memory): document speech synthesis fallback providers

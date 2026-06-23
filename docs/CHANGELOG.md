@@ -103,3 +103,5 @@ All notable changes and voice pipeline iterations.
 - [2026-06-23 12:14:11] fix(pipeline): decouple TTS engine interface from speech synthesis loop
 - [2026-06-23 13:04:52] fix(agent): implement dynamic silence threshold detection for voice commands
 - [2026-06-23 13:43:55] chore(memory): document speech synthesis fallback providers
+- **2026-06-23 13:44:36**: `docs(audio): optimize speech-to-text token decoding latency`
+  *Updated specifications and documentation details.*

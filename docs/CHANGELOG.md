@@ -105,3 +105,4 @@ All notable changes and voice pipeline iterations.
 - [2026-06-23 13:43:55] chore(memory): document speech synthesis fallback providers
 - **2026-06-23 13:44:36**: `docs(audio): optimize speech-to-text token decoding latency`
   *Updated specifications and documentation details.*
+- [2026-06-23 14:19:51] chore(agent): document speech synthesis fallback providers

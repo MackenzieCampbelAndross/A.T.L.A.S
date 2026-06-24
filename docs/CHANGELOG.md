@@ -108,3 +108,4 @@ All notable changes and voice pipeline iterations.
 - [2026-06-23 14:19:51] chore(agent): document speech synthesis fallback providers
 - [2026-06-23 20:03:49] chore(stt): persist conversation session context across agent restarts
 - [2026-06-24 10:24:42] perf(mic): enhance natural language query intent parsing for nested commands
+- [2026-06-24 12:46:45] perf(nlp): handle sounddevice input stream underflow during high CPU load

@@ -19,3 +19,5 @@ Detailed breakdown of speech recognition, NLP intent classification, and audio p
   *Updated specifications and documentation details.*
 - **2026-06-12 12:48:26**: `docs(intent): add support for custom hotword activation phrases`
   *Updated specifications and documentation details.*
+- **2026-06-25 09:36:49**: `docs(pipeline): streamline wake-word intent recognition classifier`
+  *Updated specifications and documentation details.*

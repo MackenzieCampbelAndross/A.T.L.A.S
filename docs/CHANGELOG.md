@@ -113,3 +113,4 @@ All notable changes and voice pipeline iterations.
 - [2026-06-25 15:34:04] perf(pipeline): update audio pipeline state machine diagrams
 - [2026-06-25 16:42:15] fix(memory): update audio pipeline state machine diagrams
 - [2026-06-25 17:55:34] perf(wake-word): adjust microphone sensitivity calibration thresholds
+- [2026-06-25 18:59:59] fix(agent): decouple TTS engine interface from speech synthesis loop

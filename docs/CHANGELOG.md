@@ -110,3 +110,4 @@ All notable changes and voice pipeline iterations.
 - [2026-06-24 10:24:42] perf(mic): enhance natural language query intent parsing for nested commands
 - [2026-06-24 12:46:45] perf(nlp): handle sounddevice input stream underflow during high CPU load
 - [2026-06-25 11:32:08] fix(nlp): optimize whisper audio buffer chunking for low latency
+- [2026-06-25 15:34:04] perf(pipeline): update audio pipeline state machine diagrams

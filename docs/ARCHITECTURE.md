@@ -21,3 +21,5 @@ Detailed breakdown of speech recognition, NLP intent classification, and audio p
   *Updated specifications and documentation details.*
 - **2026-06-25 09:36:49**: `docs(pipeline): streamline wake-word intent recognition classifier`
   *Updated specifications and documentation details.*
+- **2026-06-25 14:28:11**: `docs(pipeline): handle sounddevice input stream underflow during high CPU load`
+  *Updated specifications and documentation details.*

@@ -25,3 +25,5 @@ Detailed breakdown of speech recognition, NLP intent classification, and audio p
   *Updated specifications and documentation details.*
 - **2026-06-25 17:32:29**: `docs(nlp): optimize whisper audio buffer chunking for low latency`
   *Updated specifications and documentation details.*
+- **2026-06-26 13:43:09**: `docs(wake-word): reduce voice recognition memory footprint in memory cache`
+  *Updated specifications and documentation details.*

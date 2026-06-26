@@ -27,3 +27,5 @@ Detailed breakdown of speech recognition, NLP intent classification, and audio p
   *Updated specifications and documentation details.*
 - **2026-06-26 13:43:09**: `docs(wake-word): reduce voice recognition memory footprint in memory cache`
   *Updated specifications and documentation details.*
+- **2026-06-26 18:05:08**: `docs(memory): resolve audio buffer overflow in continuous listening loop`
+  *Updated specifications and documentation details.*

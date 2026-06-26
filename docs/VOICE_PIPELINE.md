@@ -27,3 +27,5 @@ Specifications for chunking, whisper buffer management, and TTS fallback engines
   *Updated specifications and documentation details.*
 - **2026-06-17 15:21:50**: `docs(wake-word): optimize speech-to-text token decoding latency`
   *Updated specifications and documentation details.*
+- **2026-06-26 14:03:16**: `docs(nlp): refine voice activity detection energy gating`
+  *Updated specifications and documentation details.*

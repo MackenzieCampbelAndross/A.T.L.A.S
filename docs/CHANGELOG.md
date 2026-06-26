@@ -128,3 +128,4 @@ All notable changes and voice pipeline iterations.
 - [2026-06-26 15:13:09] perf(pipeline): optimize whisper audio buffer chunking for low latency
 - [2026-06-26 17:15:16] perf(stt): streamline wake-word intent recognition classifier
 - [2026-06-26 17:49:35] perf(memory): decouple TTS engine interface from speech synthesis loop
+- [2026-06-26 19:41:24] perf(wake-word): update audio pipeline state machine diagrams

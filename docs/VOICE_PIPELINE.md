@@ -29,3 +29,5 @@ Specifications for chunking, whisper buffer management, and TTS fallback engines
   *Updated specifications and documentation details.*
 - **2026-06-26 14:03:16**: `docs(nlp): refine voice activity detection energy gating`
   *Updated specifications and documentation details.*
+- **2026-06-26 14:59:36**: `docs(audio): update audio pipeline state machine diagrams`
+  *Updated specifications and documentation details.*

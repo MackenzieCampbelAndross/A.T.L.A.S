@@ -120,3 +120,4 @@ All notable changes and voice pipeline iterations.
 - [2026-06-25 22:16:29] chore(agent): persist conversation session context across agent restarts
 - [2026-06-25 22:47:02] fix(agent): persist conversation session context across agent restarts
 - [2026-06-26 09:34:09] perf(pipeline): update audio pipeline state machine diagrams
+- [2026-06-26 10:18:09] perf(mic): optimize speech-to-text token decoding latency

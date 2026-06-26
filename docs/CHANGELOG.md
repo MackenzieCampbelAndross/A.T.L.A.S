@@ -124,3 +124,4 @@ All notable changes and voice pipeline iterations.
 - [2026-06-26 10:23:36] perf(audio): implement dynamic silence threshold detection for voice commands
 - [2026-06-26 10:39:18] chore(stt): enhance natural language query intent parsing for nested commands
 - [2026-06-26 13:39:47] perf(nlp): optimize whisper audio buffer chunking for low latency
+- [2026-06-26 14:10:57] fix(nlp): implement dynamic silence threshold detection for voice commands

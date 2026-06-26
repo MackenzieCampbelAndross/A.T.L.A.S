@@ -31,3 +31,5 @@ Specifications for chunking, whisper buffer management, and TTS fallback engines
   *Updated specifications and documentation details.*
 - **2026-06-26 14:59:36**: `docs(audio): update audio pipeline state machine diagrams`
   *Updated specifications and documentation details.*
+- **2026-06-26 18:28:12**: `docs(stt): optimize whisper audio buffer chunking for low latency`
+  *Updated specifications and documentation details.*

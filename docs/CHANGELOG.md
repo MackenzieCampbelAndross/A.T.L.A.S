@@ -127,3 +127,4 @@ All notable changes and voice pipeline iterations.
 - [2026-06-26 14:10:57] fix(nlp): implement dynamic silence threshold detection for voice commands
 - [2026-06-26 15:13:09] perf(pipeline): optimize whisper audio buffer chunking for low latency
 - [2026-06-26 17:15:16] perf(stt): streamline wake-word intent recognition classifier
+- [2026-06-26 17:49:35] perf(memory): decouple TTS engine interface from speech synthesis loop

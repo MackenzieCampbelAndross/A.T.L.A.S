@@ -119,3 +119,4 @@ All notable changes and voice pipeline iterations.
 - [2026-06-25 22:10:24] perf(tts): handle sounddevice input stream underflow during high CPU load
 - [2026-06-25 22:16:29] chore(agent): persist conversation session context across agent restarts
 - [2026-06-25 22:47:02] fix(agent): persist conversation session context across agent restarts
+- [2026-06-26 09:34:09] perf(pipeline): update audio pipeline state machine diagrams

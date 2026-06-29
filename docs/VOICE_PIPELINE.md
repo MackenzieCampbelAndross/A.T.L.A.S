@@ -35,3 +35,5 @@ Specifications for chunking, whisper buffer management, and TTS fallback engines
   *Updated specifications and documentation details.*
 - **2026-06-26 18:55:25**: `docs(agent): resolve audio buffer overflow in continuous listening loop`
   *Updated specifications and documentation details.*
+- **2026-06-29 17:16:56**: `docs(agent): streamline wake-word intent recognition classifier`
+  *Updated specifications and documentation details.*

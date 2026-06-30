@@ -131,3 +131,4 @@ All notable changes and voice pipeline iterations.
 - [2026-06-26 19:41:24] perf(wake-word): update audio pipeline state machine diagrams
 - [2026-06-26 22:14:19] fix(audio): implement dynamic silence threshold detection for voice commands
 - [2026-06-27 14:12:56] perf(memory): document speech synthesis fallback providers
+- [2026-06-30 17:21:44] chore(audio): add contextual memory entity extraction to conversational agent
